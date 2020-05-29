@@ -1,4 +1,4 @@
-.container{
+body{
   background-color: #f6f4f2;
 }
 
@@ -17,3 +17,12 @@ img.MegPic{
   padding : 3%;
 }
 
+.button div {
+  color: red;  
+
+}
+
+.button a {
+  color: red;  
+   
+}
