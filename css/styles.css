@@ -11,6 +11,10 @@ h2{
   color: #c6ad8f;
 }
 
+h3{
+  margin-top: 10px;
+}
+
 img.MegPic{
   width: 25%;
   height: auto;
@@ -24,6 +28,7 @@ ol.circles {
 .projects{
   text-align: center;
 }
+
 .button{
   background : #425664;
   padding: 10px;
