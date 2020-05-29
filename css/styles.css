@@ -1,5 +1,13 @@
+.container{
+  background-color: #f6f4f2;
+}
+
 h1 {
-  color: blue;
+  color: #425664;
+}
+
+h2{
+  color: #c6ad8f;
 }
 
 img.MegPic{
@@ -9,6 +17,3 @@ img.MegPic{
   padding : 3%;
 }
 
-p{
-  margin:0;
-}
