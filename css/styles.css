@@ -4,7 +4,7 @@ body{
 
 h1 {
   color: #425664;
-  text: ;
+  font-family: Georgia, serif;
 }
 
 h2{
@@ -27,15 +27,14 @@ img.MegPic{
 
 .button li {
   color: red;  
+  margin-top: 30px;
+  text-align: center;
 }
 
 .button a {
   color: red;  
   position: absolute;
   width: 100%;
-  height: 100%;
-  top: 0;
-  left: center;
   text-decoration: none;
 }
 
