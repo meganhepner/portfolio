@@ -5,7 +5,7 @@
 #### By _**Megan Hepner**_
 
 ## Description
-  This is a portfolio page with a short introduction to myself and links to the Epicodus classwork I've done on GitHub. You can view the result [here] (https://meganhepner.github.io/portfolio/)
+  This is a portfolio page with a short introduction to myself and links to the Epicodus classwork I've done on GitHub. You can view the result here (https://meganhepner.github.io/portfolio/)
 
 
 ## Setup/Installation Requirements
